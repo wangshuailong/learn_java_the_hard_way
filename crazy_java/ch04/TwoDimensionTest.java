@@ -2,7 +2,7 @@ public class TwoDimensionTest
 {
     public static void main(String[] args)
     {
-        int[][] = a;
+        int[][] a;
         a = new int[4][];
 
         for(int i = 0, len = a.length; i < len; i ++)
